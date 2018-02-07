@@ -6,6 +6,8 @@
 // @author       Liu233w
 // @match        https://github.com/*/commits/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Liu233w/go-to-init-commit.user.js/master/go-to-init-commit.user.js
+// @downloadURL  https://raw.githubusercontent.com/Liu233w/go-to-init-commit.user.js/master/go-to-init-commit.user.js
 // ==/UserScript==
 
 (function() {
