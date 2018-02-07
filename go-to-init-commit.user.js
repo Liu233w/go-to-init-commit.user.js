@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Go To Initial Commit
-// @namespace    http://liu233w.github.io/
+// @namespace    https://github.com/Liu233w/
 // @version      0.1
 // @description  Add a button on Github commit page which allow you to nevigate to the first commit page
 // @author       Liu233w
