@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  Add a button on Github commit page which allow you to nevigate to the first commit page
 // @author       Liu233w
+// @license      BSD 3-Clause License
+// @icon         https://assets-cdn.github.com/pinned-octocat.svg
 // @match        https://github.com/*/commits/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/Liu233w/go-to-init-commit.user.js/master/go-to-init-commit.user.js
