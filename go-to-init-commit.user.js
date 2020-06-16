@@ -10,8 +10,6 @@
 // @icon         https://assets-cdn.github.com/pinned-octocat.svg
 // @match        https://github.com/*/commits/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Liu233w/go-to-init-commit.user.js/master/go-to-init-commit.user.js
-// @downloadURL  https://raw.githubusercontent.com/Liu233w/go-to-init-commit.user.js/master/go-to-init-commit.user.js
 // ==/UserScript==
 
 (function() {
@@ -61,4 +59,5 @@
     openFirstCommit(window.location.pathname.match(/\/([^\/]+\/[^\/]+)(?:\/tree\/([^\/]+))?/));
   });
   nav.appendChild(button);
+  button.previousElementSibling.style.display = "inline"
 })();
